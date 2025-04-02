@@ -1,0 +1,54 @@
+127.0.0.1:2211 2025-04-02 10:00:19  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:00:19  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:00:19  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 10:18:46  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:18:46  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:18:46  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 10:26:00  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:26:00  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:26:00  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 10:32:23  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:32:23  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:32:23  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 10:33:18  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:33:18  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:34:00  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:34:00  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:34:20  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 10:36:36  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:36:36  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:44:40  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:44:40  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:44:40  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 10:45:21  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 10:45:21  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 10:45:25  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+127.0.0.1:2211 2025-04-02 17:38:54  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+127.0.0.1:2211 2025-04-02 17:38:54  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+127.0.0.1:2211 2025-04-02 17:38:54  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+2025-04-02 17:40:25  - SUCCESS -  RpcMessageProducer::Init - Init RpcMessageProducer success!
+2025-04-02 17:40:25  - SUCCESS -  RpcMessageConsumer::Init - Init RpcMessageConsumer success!
+2025-04-02 17:40:25  - WARNING -  ConsumerReBalanceCB::rebalance_cb - Kafka consumer rdkafka#consumer-2 ReBalance CallBack! Info: Local: Assign partitions
+2025-04-02 17:40:25  ZK_Opreator<T>::Connect2Server - zookeeper session connected success! 127.0.0.1:2211
+2025-04-02 17:40:25  RpcChannel::Stared - 127.0.0.1:2211
+2025-04-02 17:40:25  RpcChannel::Stared - 127.0.0.1:2211 127.0.0.1:2211
+2025-04-02 17:40:25  ZK_Opreator<T>::create_znode - 创建节点成功: /FriendMethodRpc 127.0.0.1:2211
+2025-04-02 17:40:25  ZK_Opreator<T>::create_znode - 创建节点成功: /FriendMethodRpc/friendlist 127.0.0.1:2211
+2025-04-02 17:40:25  ZK_Opreator<T>::create_znode - 创建节点成功: /UserLoginRpc 127.0.0.1:2211
+2025-04-02 17:40:25  ZK_Opreator<T>::create_znode - 创建节点成功: /UserLoginRpc/rejister 127.0.0.1:2211
+2025-04-02 17:40:26  ZK_Opreator<T>::create_znode - 创建节点成功: /UserLoginRpc/login 127.0.0.1:2211
+2025-04-02 17:40:26  RpcChannel::Stared - Rpc Service Stared 127.0.0.1:2211
+2025-04-02 17:41:42 header_size = 26 127.0.0.1:2211
+2025-04-02 17:41:42  RpcChannel::MessageCallBack - service_name = UserLoginRpc
+	method_name = rejister
+	args_size = 20
+	args = 
+
+2836992987123456 127.0.0.1:2211
+2025-04-02 17:41:42 header_size = 31 127.0.0.1:2211
+2025-04-02 17:41:42  RpcChannel::MessageCallBack - service_name = FriendMethodRpc
+	method_name = friendlist
+	args_size = 12
+	args = 
+
+2836992987 127.0.0.1:2211

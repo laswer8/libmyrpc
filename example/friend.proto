@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package friendrpc;
+
+option cc_generic_services = true;
+
+message ErrType{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+message FriendListReq{
+    bytes name = 1;
+}
+
+message FriendListRes{
+    ErrType err = 1;
+    repeated bytes friends = 2;
+}
+
+service FriendMethodRpc{
+    rpc friendlist(FriendListReq) returns(FriendListRes);
+}

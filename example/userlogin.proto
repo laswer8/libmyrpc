@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package loginrpc;
+
+//以c++生成service服务类和rpc描述，默认为false
+option cc_generic_services = true;
+
+message ErrType{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+message LoginReq{
+    bytes name = 1;
+    bytes pwd = 2;
+}
+
+message LoginRes{
+    ErrType err = 1;
+    bool issuccess = 2;
+}
+
+message RejisterReq{
+    bytes name = 1;
+    bytes pwd = 2;
+}
+
+message RejisterRes{
+    ErrType err = 1;
+    bool issuccess = 2;
+}
+
+message MessageHeader{
+    bytes service_name = 1;
+    bytes method_name = 2;
+    uint32 args_size = 3;
+}
+
+service UserLoginRpc{
+    rpc login(LoginReq) returns(LoginRes);
+    rpc rejister(RejisterReq) returns(RejisterRes);
+}
