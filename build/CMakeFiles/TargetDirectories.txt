@@ -1,0 +1,13 @@
+/home/laswer/my_code/Rpc/build/CMakeFiles/rebuild_cache.dir
+/home/laswer/my_code/Rpc/build/CMakeFiles/edit_cache.dir
+/home/laswer/my_code/Rpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/laswer/my_code/Rpc/build/src/CMakeFiles/edit_cache.dir
+/home/laswer/my_code/Rpc/build/src/CMakeFiles/prpc.dir
+/home/laswer/my_code/Rpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/laswer/my_code/Rpc/build/example/CMakeFiles/edit_cache.dir
+/home/laswer/my_code/Rpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/laswer/my_code/Rpc/build/example/callee/CMakeFiles/edit_cache.dir
+/home/laswer/my_code/Rpc/build/example/callee/CMakeFiles/rpc_callee.dir
+/home/laswer/my_code/Rpc/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/laswer/my_code/Rpc/build/example/caller/CMakeFiles/edit_cache.dir
+/home/laswer/my_code/Rpc/build/example/caller/CMakeFiles/rpc_caller.dir

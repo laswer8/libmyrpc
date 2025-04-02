@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libprpc.a  CMakeFiles/prpc.dir/none.cpp.o
+/usr/bin/ranlib ../../lib/libprpc.a
